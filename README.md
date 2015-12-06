@@ -4,6 +4,6 @@ Generally tried to follow the Google Python Style Guide, including its suggestio
 
 To run, clone the repository or unzip all files to a local directory. Then in a console run:
 
-'''
+```
 python entertainment_center.py
-'''
+```
